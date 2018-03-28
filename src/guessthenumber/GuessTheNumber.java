@@ -4,7 +4,7 @@
  *  Date: 3/28/2018
  *  Description: A program that generates a randonm number for the user to guess.
 
- */
+    This program asks the user to enter a number between 1 and 10, then compares 
     that number to the one the program generated, and informs the user if they are 
     right or wrong. The user can then try again, or close the program.
 */
